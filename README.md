@@ -1,6 +1,6 @@
 # stanCode Projects
 Hellow there!\
-This repository holds my programming prpojects done during the period of stanCode SC101 course.\
+This repository holds my programming prpojects done during the period of stanCode SC101 course.
 
 
 # Project Source Cords
